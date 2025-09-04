@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parag Jindal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN STACK developer from India</h3>
 
 - 📫 How to reach me **Paragjindal2277@gmail.com**
 
